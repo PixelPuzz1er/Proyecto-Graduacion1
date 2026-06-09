@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision">
+<line x1="16" y1="2" x2="16" y2="30" stroke="#888888" stroke-width="2"/>
+<line x1="2" y1="16" x2="16" y2="16" stroke="#FFFFFF" stroke-width="2.5"/>
+<line x1="16" y1="16" x2="30" y2="16" stroke="#FF4500" stroke-width="2" stroke-dasharray="2,2"/>
+<path d="M20,12 L26,20 M26,12 L20,20" fill="none" stroke="#FF4500" stroke-width="2"/>
+</svg>

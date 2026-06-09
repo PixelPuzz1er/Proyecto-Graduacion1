@@ -1,0 +1,8 @@
+FROM sorc/qwen3.5-claude-4.6-opus:4b
+
+PARAMETER num_gpu 16
+PARAMETER num_thread 8
+PARAMETER num_predict 2048
+PARAMETER temperature 0.7
+PARAMETER top_k 40
+PARAMETER top_p 0.9
